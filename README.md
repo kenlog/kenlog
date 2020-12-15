@@ -1,6 +1,8 @@
 ### Hi there 👋 currently working on many projects! 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenlog&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/docpht/docpht) ![swordfish](https://user-images.githubusercontent.com/11728231/102263642-e5122700-3f14-11eb-8e93-abbbe7537db6.gif)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenlog&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/docpht/docpht) 
+
+<img src="https://user-images.githubusercontent.com/11728231/102263642-e5122700-3f14-11eb-8e93-abbbe7537db6.gif" alt="swordfish" style="width: 495px!important;">
 
 <!--
 **kenlog/kenlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
