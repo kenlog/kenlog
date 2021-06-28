@@ -1,15 +1,6 @@
 ### 👋 Hi there, I'm Valentino Pesce alias Kenlog
 ### I'm a PHP Developer
 
-```php
-//life motto
-if (sad() === true) {
-  sad().stop();
-  sing();
-} else {
-  beAwesome();
-}
-```
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenlog&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/docpht/docpht) 
 
