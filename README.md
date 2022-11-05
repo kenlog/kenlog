@@ -1,8 +1,6 @@
 ### 👋 Hi there, I'm Valentino Pesce alias Kenlog
-### I'm a PHP Developer
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenlog&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/docpht/docpht) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenlog&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kenlog/kenlog) 
 
 
 <!--
