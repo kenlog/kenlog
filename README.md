@@ -7,7 +7,7 @@ In my work, I develop advanced and customized software solutions for businesses,
 ### 💻 My Skills
 - **Programming Languages:** PHP, JavaScript, Python, C#, C++
 - **Web Development:** HTML, CSS, Laravel, Symfony, Silverstripe, Vue.js, Custom frameworks
-- **Databases:** MySQL, Firebird SQL, PostgreSQL, MongoDB, SQL Server
+- **Databases:** MySQL, Firebird SQL, SQLite, PostgreSQL, MongoDB, SQL Server
 - **Continuous Integration (CI):** GitHub Actions, Vagrant, Custom tools
 - **Tools and Technologies:** Visual Studio Code, Git, Kanboard, cURL, PHPStan, Postman
 - **Security:** OWASP ZAP
