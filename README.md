@@ -1,7 +1,8 @@
-### 👋 Hi there, I'm Valentino Pesce alias Kenlog
+### 👋 Hi, I'm Valentino Pesce alias Kenlog!
 
 ### 🚀 Who I am
 I am a technology enthusiast and a dedicated Linux user. I enjoy exploring new technologies and designing small robots to automate processes, improve systems, and make people's lives easier.
+In my work, I develop advanced and customized software solutions for businesses, with the goal of improving workflow and optimizing internal processes. I also create predictive statistical dashboards to help companies make informed decisions.
 
 ### 💻 My Skills
 - **Programming Languages:** PHP, JavaScript, Python, C#, C++
