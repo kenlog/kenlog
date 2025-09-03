@@ -4,17 +4,8 @@
 I am a technology enthusiast and a dedicated Linux user. I enjoy exploring new technologies and designing small robots to automate processes, improve systems, and make people's lives easier.
 In my work, I develop advanced and customized software solutions for businesses, with the goal of improving workflow and optimizing internal processes. I also create predictive statistical dashboards to help companies make informed decisions.
 
-### 💻 My Skills
-- **Programming Languages:** PHP, JavaScript, Python, C#, C++
-- **Web Development:** HTML, CSS, Laravel, Symfony, Silverstripe, Vue.js, Custom frameworks
-- **Databases:** MySQL, Firebird SQL, SQLite, PostgreSQL, MongoDB, SQL Server
-- **Continuous Integration (CI):** GitHub Actions, Vagrant, Custom tools
-- **Tools and Technologies:** Visual Studio Code, Git, Kanboard, cURL, PHPStan, Postman
-- **Security:** OWASP ZAP
-- **Operating Systems:** Advanced experience with Linux, including distributions such as Ubuntu, CentOS, and Debian. Skilled in Bash scripting for automation, server management, and development environment optimization.
-
 ### 🛠️ Recent Open Source Projects
-- **Global search plugin for Kanboard v1.2.39:** I implemented a search layout with advanced features.
+- **Global search plugin for Kanboard** I implemented a search layout with advanced features.
 
 ### 🌱 What I’m learning
 I am exploring the integration of AI and machine learning into practical software solutions, with a focus on the ethical implications of AI.
